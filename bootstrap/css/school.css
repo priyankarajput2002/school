@@ -1,0 +1,39 @@
+.header1{
+    font-size: 12px;
+    background-color:#A41E35;
+}
+.icons{
+    font-size: 20px;
+}
+.headerlogo
+{
+    width: 200px;
+    height: auto;
+}
+.itemimage
+{
+    background-image: url("../../image/image1.jpeg")!important;
+    height: 300px;
+}
+.itemtext{
+    text-align: center;
+    font-size: 60px;
+    color: #f1f1f1;
+    margin-top: 50px;
+    font-family: Zen Antique, serif;
+    font-weight: 400;
+   
+}
+.hillsidetext{
+    font-size: 60px;
+    font-family: Zen Antique, serif;
+}
+.hillsidecontent{
+    line-height: 35px; 
+    color: black; 
+    font-weight: 300; font-size: 18px;font-family: Kanit, sans-serif;
+}
+.southkentschoollogo{
+    height: 300px;
+    width: 250px;
+}

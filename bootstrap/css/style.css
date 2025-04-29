@@ -1,0 +1,165 @@
+.color{
+    background-color:lightgrey; 
+}
+
+.header {
+    font-size: 12px;
+    background-color: black ;
+    position: sticky;
+    width: 100%;
+    top: 0px;
+    z-index: 999;
+}
+.search{
+    /* padding-right: 100px; */
+}
+.searchbar{
+    /* margin-left: 80px; */
+    border:3px solid orange;
+    border-radius: 7px;
+    height:50px;
+   width: 800px;
+   margin-left: 20px;
+}
+.searchbarbtn{
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: orange;
+   font-size: x-large;
+}
+.flagicon{
+    height:20px ;
+    width:20px;
+    /* background-color:black; */
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.locationtext{
+    padding-left: 5px;
+line-height:15px;
+}
+.carticon{
+    height:30px;
+    width:30px;
+    /* background-color: red; */
+
+}
+.hellosignin{
+    margin-right: 50px;
+  
+}
+.header2{
+    background-color: rgb(69, 43, 43);
+    
+}
+.cardimage{
+    height: 100%;
+    width:45%;
+    margin: 5px;
+    display:inline;
+  
+}
+.seemore{
+    color: blue;
+    font-size: 13px;
+}
+.onlineshopping{
+    position:relative;
+     top:-350px; 
+    
+}
+.footer{
+    background-color: #64788b;
+    height: 60px;
+    padding: 20px;
+    margin:0px;
+}
+.footer2{
+    background-color:#232F3E;
+   
+}
+.footertext{
+    line-height: 10px;
+    font-size: 14px;
+}
+.amazonlogo{
+    background-color: #232F3E;
+}
+.owlslider .item img{
+    height: 200px;
+}
+.owl-carousel{
+    padding: 30px;
+   
+}
+.c .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    background-color: white !important;
+    position: relative;
+    top: -150px;
+    font-size: 60px !important;
+    border:5px solid white !important;
+    box-shadow: 0 1px 3px #888;
+    
+}
+.c .owl-nav button.owl-next, .owl-carousel button.owl-dot {
+    border:5px solid white !important;
+    background-color: white!important;
+    position: relative;
+    top: -150px;
+    font-size: 60px !important;
+    left: 1380px;
+    box-shadow: 0 1px 3px #888;
+   
+}
+.c1 .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    background-color: white !important;
+    position: relative;
+    top: -170px;
+    font-size: 60px !important;
+    border:5px solid white !important;
+    box-shadow: 0 1px 3px #888;
+    right: 30px;
+}
+.c1 .owl-nav button.owl-next, .owl-carousel button.owl-dot {
+    border:5px solid white !important;
+    background-color: white!important;
+    position: relative;
+    top: -170px;
+    font-size: 60px !important;
+   left: 220px;
+    box-shadow: 0 1px 3px #888;
+}
+
+.brandimage{
+    width: 100%;
+}
+.c2 .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    background-color: white !important;
+    position: relative;
+    top: -170px;
+    font-size: 40px !important;
+    border:5px solid white !important;
+    box-shadow: 0 1px 3px #888;
+   right: 20px;
+}
+.c2 .owl-nav button.owl-next, .owl-carousel button.owl-dot {
+    border:5px solid white !important;
+    background-color: white!important;
+    position: relative;
+    top: -170px;
+    font-size: 40px !important;
+   left: 900px;
+    box-shadow: 0 1px 3px #888;
+}
+.c1 .owl-item .item img{
+height: 190px;
+}
+.c2 .owl-item .item img{
+ height: 130px;
+ width: 100px;
+ margin-left: 50px;
+} 
+.owl-nav{
+    height: 0px  !important;
+}
